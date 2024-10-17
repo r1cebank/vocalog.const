@@ -53,3 +53,7 @@ function consoleText(words, id, colors) {
     }
   }, 400)
 }
+console.info(
+  'Made with %c♥%c in Vancouver',
+  'color: #e25555', 'color: unset'
+);
